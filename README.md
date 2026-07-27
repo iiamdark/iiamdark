@@ -68,10 +68,13 @@ fun_fact: Barcelona's night sky fuels my best code ✨
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiamdark&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiamdark&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiamdark&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiamdark&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiamdark&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiamdark&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iiamdark&theme=tokyonight&utcOffset=2" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiamdark&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 
 ---
@@ -79,12 +82,46 @@ fun_fact: Barcelona's night sky fuels my best code ✨
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="30" height="30" /> Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/iiamdark/quasar-docs-mcp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iiamdark&repo=quasar-docs-mcp&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/iiamdark/StackedTools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iiamdark&repo=StackedTools&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/iiamdark/quasar-docs-mcp" style="text-decoration: none;">
+          <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px; min-height: 140px; text-align: left; transition: border-color 0.3s;">
+            <h3 style="color: #58A6FF; margin: 0 0 8px 0; font-size: 16px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="20" height="20" />
+              quasar-docs-mcp
+            </h3>
+            <p style="color: #8B949E; margin: 0 0 12px 0; font-size: 13px;">
+              MCP server that lets AI coding assistants query the Quasar Store documentation in real time.
+            </p>
+            <p style="margin: 0; font-size: 12px;">
+              <span style="color: #F7DF1E;">⬤ JavaScript</span>
+              <span style="color: #8B949E; margin-left: 16px;">⭐ 0</span>
+              <span style="color: #8B949E; margin-left: 16px;">⑂ 0</span>
+            </p>
+          </div>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/iiamdark/StackedTools" style="text-decoration: none;">
+          <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px; min-height: 140px; text-align: left; transition: border-color 0.3s;">
+            <h3 style="color: #58A6FF; margin: 0 0 8px 0; font-size: 16px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="20" height="20" />
+              StackedTools
+            </h3>
+            <p style="color: #8B949E; margin: 0 0 12px 0; font-size: 13px;">
+              Discover, compare, and master the best digital tools with in-depth reviews and comparisons.
+            </p>
+            <p style="margin: 0; font-size: 12px;">
+              <span style="color: #3178C6;">⬤ TypeScript</span>
+              <span style="color: #8B949E; margin-left: 16px;">⭐ 0</span>
+              <span style="color: #8B949E; margin-left: 16px;">⑂ 0</span>
+            </p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
