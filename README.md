@@ -84,9 +84,9 @@ fun_fact: Barcelona's night sky fuels my best code ✨
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="100%">
         <a href="https://github.com/iiamdark/quasar-docs-mcp" style="text-decoration: none;">
-          <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px; min-height: 140px; text-align: left; transition: border-color 0.3s;">
+          <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px; min-height: 120px; text-align: left; transition: border-color 0.3s;">
             <h3 style="color: #58A6FF; margin: 0 0 8px 0; font-size: 16px;">
               <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="20" height="20" />
               quasar-docs-mcp
@@ -96,24 +96,6 @@ fun_fact: Barcelona's night sky fuels my best code ✨
             </p>
             <p style="margin: 0; font-size: 12px;">
               <span style="color: #F7DF1E;">⬤ JavaScript</span>
-              <span style="color: #8B949E; margin-left: 16px;">⭐ 0</span>
-              <span style="color: #8B949E; margin-left: 16px;">⑂ 0</span>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/iiamdark/StackedTools" style="text-decoration: none;">
-          <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px; min-height: 140px; text-align: left; transition: border-color 0.3s;">
-            <h3 style="color: #58A6FF; margin: 0 0 8px 0; font-size: 16px;">
-              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="20" height="20" />
-              StackedTools
-            </h3>
-            <p style="color: #8B949E; margin: 0 0 12px 0; font-size: 13px;">
-              Discover, compare, and master the best digital tools with in-depth reviews and comparisons.
-            </p>
-            <p style="margin: 0; font-size: 12px;">
-              <span style="color: #3178C6;">⬤ TypeScript</span>
               <span style="color: #8B949E; margin-left: 16px;">⭐ 0</span>
               <span style="color: #8B949E; margin-left: 16px;">⑂ 0</span>
             </p>
