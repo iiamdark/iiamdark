@@ -137,46 +137,12 @@ No activity data yet — but the best code is yet to be written!
 ---
 
 <div align="center">
-  <h3>Trophy Case</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <div style="background: linear-gradient(145deg, #1a1b2e, #16172b); border: 1px solid #6C63FF33; border-radius: 16px; padding: 20px 28px; min-width: 140px; min-height: 140px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
-          <span style="font-size: 42px;">🏆</span>
-          <strong style="color: #e6e6ff; font-size: 14px;">Star Contributor</strong>
-          <span style="color: #6C63FF; font-size: 12px;">Building & Sharing</span>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(145deg, #1a1b2e, #16172b); border: 1px solid #6C63FF33; border-radius: 16px; padding: 20px 28px; min-width: 140px; min-height: 140px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
-          <span style="font-size: 42px;">💻</span>
-          <strong style="color: #e6e6ff; font-size: 14px;">Developer</strong>
-          <span style="color: #6C63FF; font-size: 12px;">Full-Stack & FiveM</span>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(145deg, #1a1b2e, #16172b); border: 1px solid #6C63FF33; border-radius: 16px; padding: 20px 28px; min-width: 140px; min-height: 140px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
-          <span style="font-size: 42px;">📂</span>
-          <strong style="color: #e6e6ff; font-size: 14px;">Repositories</strong>
-          <span style="color: #6C63FF; font-size: 12px;">5 Public Repos</span>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(145deg, #1a1b2e, #16172b); border: 1px solid #6C63FF33; border-radius: 16px; padding: 20px 28px; min-width: 140px; min-height: 140px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
-          <span style="font-size: 42px;">🔮</span>
-          <strong style="color: #e6e6ff; font-size: 14px;">Innovator</strong>
-          <span style="color: #6C63FF; font-size: 12px;">MCP & Tools</span>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(145deg, #1a1b2e, #16172b); border: 1px solid #6C63FF33; border-radius: 16px; padding: 20px 28px; min-width: 140px; min-height: 140px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
-          <span style="font-size: 42px;">🌐</span>
-          <strong style="color: #e6e6ff; font-size: 14px;">Open Source</strong>
-          <span style="color: #6C63FF; font-size: 12px;">Quasar Store MCP</span>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Star%20Contributor-Building%20%26%20Sharing-6C63FF?style=for-the-badge" alt="Star Contributor" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Developer-Full--Stack%20%26%20FiveM-6C63FF?style=for-the-badge" alt="Developer" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%82%205%20Repos-Public%20Repositories-6C63FF?style=for-the-badge" alt="5 Repos" />
+  <br/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%AE%20Innovator-MCP%20%26%20Tools-6C63FF?style=for-the-badge" alt="Innovator" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20Source-Quasar%20Store%20MCP-6C63FF?style=for-the-badge" alt="Open Source" />
 </div>
 
 ---
