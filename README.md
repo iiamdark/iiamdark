@@ -58,6 +58,7 @@ fun_fact: Barcelona's night sky fuels my best code ✨
 ### Specialized In
 ![FiveM](https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=fivem&logoColor=white)
 ![QBCore](https://img.shields.io/badge/QBCore-00E5FF?style=for-the-badge&logo=esbuild&logoColor=white)
+![Qbox](https://img.shields.io/badge/Qbox-7B2FF7?style=for-the-badge&logo=esbuild&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-FF2D20?style=for-the-badge&logo=esbuild&logoColor=white)
 
 </div>
